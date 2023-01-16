@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = yasin.jallouli@gmail.com
+	name = yasin jallouli yasin.jallouli@gmail.com
